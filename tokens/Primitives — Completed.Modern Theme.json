@@ -89,7 +89,7 @@
     "brand": {
       "watermelon": {
         "$type": "color",
-        "$value": "#7db8a9",
+        "$value": "#00ffbe",
         "$description": "",
         "$extensions": {
           "com.figma": {
